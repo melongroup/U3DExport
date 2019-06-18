@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 0388976e766f8fe4ea6be470bf013de9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 0000_c001.sword
+    100002: 0001_c001.Upper
+    100004: 0002_c001.Upper
+    100006: 0003_c001.Lower
+    100008: 0004_c001.Lower
+    100010: 0005_c001.Lower
+    100012: 0006_c001.head2
+    100014: 0007_c001.head2
+    100016: 0008_c001.head2
+    100018: c001
+    100020: c001.arm1L
+    100022: c001.arm1R
+    100024: c001.arm2L
+    100026: c001.arm2R
+    100028: c001.arm3L
+    100030: c001.arm3R
+    100032: c001.chest
+    100034: c001.hair
+    100036: c001.head
+    100038: c001.head2
+    100040: c001.item
+    100042: c001.leg1L
+    100044: c001.leg1R
+    100046: c001.leg2L
+    100048: c001.leg2R
+    100050: c001.leg3L
+    100052: c001.leg3R
+    100054: c001.Lower
+    100056: c001.root
+    100058: c001.sword
+    100060: c001.Upper
+    100062: c001.waist
+    100064: c001.weapon
+    100066: c001.weaponL
+    100068: //RootNode
+    400000: 0000_c001.sword
+    400002: 0001_c001.Upper
+    400004: 0002_c001.Upper
+    400006: 0003_c001.Lower
+    400008: 0004_c001.Lower
+    400010: 0005_c001.Lower
+    400012: 0006_c001.head2
+    400014: 0007_c001.head2
+    400016: 0008_c001.head2
+    400018: c001
+    400020: c001.arm1L
+    400022: c001.arm1R
+    400024: c001.arm2L
+    400026: c001.arm2R
+    400028: c001.arm3L
+    400030: c001.arm3R
+    400032: c001.chest
+    400034: c001.hair
+    400036: c001.head
+    400038: c001.head2
+    400040: c001.item
+    400042: c001.leg1L
+    400044: c001.leg1R
+    400046: c001.leg2L
+    400048: c001.leg2R
+    400050: c001.leg3L
+    400052: c001.leg3R
+    400054: c001.Lower
+    400056: c001.root
+    400058: c001.sword
+    400060: c001.Upper
+    400062: c001.waist
+    400064: c001.weapon
+    400066: c001.weaponL
+    400068: //RootNode
+    2100000: 0001_R__XSI_PSP_chara_chara_c001_Pictures_c001_05.psd
+    2100002: 0002_R__XSI_PSP_chara_chara_c001_Pictures_c001_04.psd
+    2100004: 0003_R__XSI_PSP_chara_chara_c001_Pictures_c001_03.psd
+    2100006: 0005_R__XSI_PSP_chara_chara_c001_Pictures_c001_02.psd
+    2100008: 0006_R__XSI_PSP_chara_chara_c001_Pictures_c001_03.psd
+    2100010: 0004_R__XSI_PSP_chara_chara_c001_Pictures_c001_04.psd
+    2100012: 0007_R__XSI_PSP_chara_chara_c001_Pictures_c001_02.psd
+    2100014: 0008_R__XSI_PSP_chara_chara_c001_Pictures_c001_01.psd
+    2100016: 0009_R__XSI_PSP_chara_chara_c001_Pictures_c001_02.psd
+    4300000: 0000_c001.sword
+    4300002: 0001_c001.Upper
+    4300004: 0002_c001.Upper
+    4300006: 0003_c001.Lower
+    4300008: 0004_c001.Lower
+    4300010: 0005_c001.Lower
+    4300012: 0006_c001.head2
+    4300014: 0007_c001.head2
+    4300016: 0008_c001.head2
+    7400000: Noesis Frames
+    9500000: //RootNode
+    13700000: 0000_c001.sword
+    13700002: 0001_c001.Upper
+    13700004: 0002_c001.Upper
+    13700006: 0003_c001.Lower
+    13700008: 0004_c001.Lower
+    13700010: 0005_c001.Lower
+    13700012: 0006_c001.head2
+    13700014: 0007_c001.head2
+    13700016: 0008_c001.head2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
